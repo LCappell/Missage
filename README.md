@@ -17,15 +17,15 @@
  ### 🚀 Getting Started
 
 Get Repo
- ``` git clone https://github.com/JIHYO-JEON/Missage.git ```
-Install dependency (In both Client and Server folder)
-``` cd Missage ```
-``` cd client ```
-``` npm i ```
- ``` cd .. ```
-``` cd server```
-``` npm i```
-Run the app
+-  ``` git clone https://github.com/JIHYO-JEON/Missage.git ```
+- In stall dependency (In both Client and Server folder)
+- ``` cd Missage ```
+- ``` cd client ```
+- ``` npm i ```
+- ``` cd .. ```
+-``` cd server```
+- ``` npm i```
+- Run the app
 [🌟] Needs Google API secret key in ./server/controllers/STT/
 [🌟] Needs auth0 secret key as client environments variable
 
